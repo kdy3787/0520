@@ -1,0 +1,76 @@
+html {background-color: rgba(242, 242, 242, 1);}
+body {
+line-height: 1.7;
+color:black;
+font-weight: 400;
+font-size: 1rem;
+}
+.cap{
+    text-align: center;
+    text-transform:uppercase;
+    color:black;
+    font-family:Georgia;
+}
+h1,h2,h3,h4,h5,.h1,.h2,.h3,.h4,.h5 {
+    color:midnightblue
+}
+h1,h2,h3,h4,h5,h6 {
+    margin-top:0;
+    margin-bottom:0.5rem;
+}
+a {
+    text-decoration:none;
+}
+.menu{
+    border-bottom: 1px solid grey;
+}
+ul {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    padding-inline-start:0px;
+}
+.name{
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-size: 80px;
+    color:darkgreen;
+}
+.text {
+    padding:5px;
+    background-color: rgba(162, 218, 222, 1);
+    border:4px rgba(35, 48, 59, 1);
+    border-style:solid;
+    margin-bottom:10px;
+    font-family:sans-serif;
+}
+.game {
+    padding:5px;
+    border:4px rgba(35, 48, 59, 1);
+    border-style:solid;
+    background-color:;
+    margin-bottom:10px;
+    font-family:sans-serif;
+}
+.img-fluid {
+    width:30%;
+    height:auto;
+}
+.paint {
+    background-color: rgba(162, 218, 222, 1);
+    border:4px rgba(35, 48, 59, 1);
+    border-style:solid;
+    font-style: normal;
+    text-align: right;
+    font-family:sans-serif;
+    padding:10px;
+}
+.caption {
+    text-transform:uppercase;
+    font-weight: 800;
+    letter-spacing: .2em;
+    font-size: 12px;
+    padding: 7px 10px;
+    color: olive;
+    display:inline-block;
+}
